@@ -22,6 +22,6 @@ int main(){
         }
         int resultado = setup(n, k, grades);
         printf("%d", resultado);
-    }
+    } 
     return 0;
 }
