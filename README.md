@@ -5,4 +5,4 @@ Problemas do Codeforces que resolvo para treinar lógica e algoritmos, em C e em
 - `c_codes/`: soluções em C
 - `golang_codes/`: soluções em Go, uma pasta por problema
 
-Perfil no Codeforces:
+Perfil no Codeforces: https://codeforces.com/profile/guetz
